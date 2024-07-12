@@ -1,3 +1,5 @@
+https://readytoshop.netlify.app/
+
 # Phase1-Wk2-code-challenge
 Code Challenge: Interactive Shopping List
 This challenge combines array iteration, DOM manipulation, and event handling to create an interactive shopping list application.
